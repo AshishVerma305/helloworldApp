@@ -1,0 +1,5 @@
+com\example\s3connectivity\config\MongoConfig.class
+com\example\s3connectivity\S3connectivityApplication.class
+com\example\s3connectivity\repository\MongoRepo.class
+com\example\s3connectivity\controller\Controller.class
+com\example\s3connectivity\model\User.class
